@@ -1,0 +1,139 @@
+{
+  "reserves": [
+    {
+      "id": 1,
+      "price": 20000,
+      "status_id": 1,
+      "status": "canceled",
+      "start": "2019-04-17T12:30:00.000Z",
+      "end": "2019-04-17T13:00:00.000Z",
+      "client": {
+        "id": 69204,
+        "first_name": "Sebastian",
+        "last_name": "Hevia",
+        "email": "sebastian@prueba.com",
+        "identification": ""
+      }
+    },
+    {
+      "client": {
+        "email": "jaraujo@prueba.com",
+        "first_name": "Jonathan",
+        "id": 69205,
+        "identification": "",
+        "last_name": "Araujo"
+      },
+      "end": "2022-04-17T12:30:00.000Z",
+      "id": 2,
+      "price": 20000,
+      "start": "2022-04-17T12:00:00.000Z",
+      "status": "canceled",
+      "status_id": 1
+    },
+    {
+      "id": 3,
+      "price": 20000,
+      "status_id": 1,
+      "status": "attend",
+      "start": "2021-08-28T12:00:00.000Z",
+      "end": "2021-10-28T12:30:00.000Z",
+      "client": {
+        "id": 69206,
+        "first_name": "Julio",
+        "last_name": "Quintero",
+        "email": "jquintero@prueba.com",
+        "identification": ""
+      }
+    },
+    {
+      "id": 4,
+      "price": 20000,
+      "status_id": 1,
+      "status": "confirmed",
+      "start": "2021-08-21T12:00:00.000Z",
+      "end": "2021-09-21T12:30:00.000Z",
+      "client": {
+        "id": 69207,
+        "first_name": "Rafael",
+        "last_name": "Mujica",
+        "email": "rmujica@prueba.com",
+        "identification": ""
+      }
+    },
+    {
+      "id": 5,
+      "price": 20000,
+      "status_id": 1,
+      "status": "locked",
+      "start": "2021-04-17T12:00:00.000Z",
+      "end": "2021-08-27T12:30:00.000Z",
+      "client": {
+        "id": 69207,
+        "first_name": "Sebastian",
+        "last_name": "Roldan",
+        "email": "sroldan@prueba.com",
+        "identification": ""
+      }
+    },
+    {
+      "id": 6,
+      "price": 20000,
+      "status_id": 1,
+      "status": "reserved",
+      "start": "2021-09-22T12:00:00.000Z",
+      "end": "2021-10-22T12:30:00.000Z",
+      "client": {
+        "id": 69207,
+        "first_name": "Jose",
+        "last_name": "Vence",
+        "email": "jvence@prueba.com",
+        "identification": ""
+      }
+    },
+    {
+      "id": 7,
+      "price": 20000,
+      "status_id": 1,
+      "status": "on_hold",
+      "start": "2019-04-17T12:00:00.000Z",
+      "end": "2019-04-17T12:30:00.000Z",
+      "client": {
+        "id": 69212,
+        "first_name": "David",
+        "last_name": "Alzate",
+        "email": "dalzate@prueba.com",
+        "identification": ""
+      }
+    },
+    {
+      "id": 8,
+      "price": 20000,
+      "status_id": 1,
+      "status": "pending",
+      "start": "2021-08-27T12:00:00.000Z",
+      "end": "2021-09-27T12:30:00.000Z",
+      "client": {
+        "id": 69212,
+        "first_name": "Reiber",
+        "last_name": "Serrada",
+        "email": "rserrada@prueba.com",
+        "identification": ""
+      }
+    },
+    {
+      "id": 9,
+      "price": 10000,
+      "status_id": 1,
+      "status": "does_not_attend",
+      "start": "2021-08-27T12:00:00.000Z",
+      "end": "2021-09-27T12:30:00.000Z",
+      "client": {
+        "id": 69213,
+        "first_name": "Jesus",
+        "last_name": "Aguilar",
+        "email": "jaguilar@prueba.com",
+        "identification": ""
+      }
+    }
+  ]
+}

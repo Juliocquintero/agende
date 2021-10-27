@@ -1,0 +1,82 @@
+.tables-header {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list-header.attend {
+  background-color: #fab5f8;
+}
+.list-header.attend ~ .list-container {
+  background-color: #fab5f830;
+}
+
+.list-header.locked {
+  background-color: #cacaca;
+}
+.list-header.locked ~ .list-container {
+  background-color: #cacaca30;
+}
+
+.list-header.class {
+  background-color: #f08753;
+}
+.list-header.class ~ .list-container {
+  background-color: #f0875330;
+}
+
+.list-header.reserved {
+  background-color: #77d0fa;
+}
+.list-header.reserved ~ .list-container {
+  background-color: #77d0fa30;
+}
+.list-header.confirmed {
+  background-color: #ecbe51;
+}
+.list-header.confirmed ~ .list-container {
+  background-color: #ecbe5130;
+}
+
+.list-header.on_hold {
+  background-color: #b6ed80;
+}
+.list-header.on_hold ~ .list-container {
+  background-color: #b6ed8030;
+}
+
+.list-header.pending {
+  background-color: #fd8991;
+}
+.list-header.pending ~ .list-container {
+  background-color: #fd899130;
+}
+
+.list-header.canceled {
+  background-color: #f96140;
+}
+.list-header.canceled ~ .list-container {
+  background-color: #f9614030;
+}
+
+.list-header.does_not_attend {
+  background-color: #fbc183;
+}
+.list-header.does_not_attend ~ .list-container {
+  background-color: #fbc18330;
+}
+
+/* .navBar {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+
+.navBar .navBar-link {
+    text-decoration: none;
+    font-weight: bold;
+    vertical-align: middle;
+    margin: auto 0;
+    text-transform: uppercase;
+    margin-right: 5%;
+    color: #035c5a;
+} */
