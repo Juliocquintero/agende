@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/agende/static/css/main.36744343.chunk.css",
+    "main.js": "/agende/static/js/main.01ca3935.chunk.js",
+    "main.js.map": "/agende/static/js/main.01ca3935.chunk.js.map",
+    "runtime-main.js": "/agende/static/js/runtime-main.efc66087.js",
+    "runtime-main.js.map": "/agende/static/js/runtime-main.efc66087.js.map",
+    "static/js/2.e2ea99b7.chunk.js": "/agende/static/js/2.e2ea99b7.chunk.js",
+    "static/js/2.e2ea99b7.chunk.js.map": "/agende/static/js/2.e2ea99b7.chunk.js.map",
+    "index.html": "/agende/index.html",
+    "static/css/main.36744343.chunk.css.map": "/agende/static/css/main.36744343.chunk.css.map",
+    "static/js/2.e2ea99b7.chunk.js.LICENSE.txt": "/agende/static/js/2.e2ea99b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efc66087.js",
+    "static/js/2.e2ea99b7.chunk.js",
+    "static/css/main.36744343.chunk.css",
+    "static/js/main.01ca3935.chunk.js"
+  ]
+}
